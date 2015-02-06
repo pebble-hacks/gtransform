@@ -1,0 +1,17 @@
+{
+  "uuid": "790d26ab-6899-48e9-aee7-2609b62dbc50",
+  "shortName": "gtransform",
+  "longName": "gtransform",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
